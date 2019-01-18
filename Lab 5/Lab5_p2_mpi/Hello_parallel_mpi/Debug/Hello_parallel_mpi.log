@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hello_parallel_mpi.vcxproj, Lab4_p1_mpi.vcxproj, Lab5_p1_mpi.vcxproj, Lab6_p2_mpi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\alexandru grigoras\desktop\facultate\anul 4\semestrul i\alpd\probleme\laborator 5\lab5_p2_mpi\hello_parallel_mpi\main.cpp(17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\alexandru grigoras\desktop\facultate\anul 4\semestrul i\alpd\probleme\laborator 5\lab5_p2_mpi\hello_parallel_mpi\main.cpp(18): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\alexandru grigoras\desktop\facultate\anul 4\semestrul i\alpd\probleme\laborator 5\lab5_p2_mpi\hello_parallel_mpi\main.cpp(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  Hello_parallel_mpi.vcxproj -> C:\Users\Alexandru Grigoras\Desktop\Facultate\Anul 4\Semestrul I\ALPD\Probleme\Laborator 5\Lab5_p2_mpi\Debug\Lab5_p2_mpi.exe

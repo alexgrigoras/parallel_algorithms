@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hello_parallel.vcxproj, Solution.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\alexandru grigoras\desktop\facultate\anul 4\semestrul i\alpd\probleme\laborator 6\lab6_p3_openmp\hello_parallel\main.cpp(61): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Hello_parallel.vcxproj -> C:\Users\Alexandru Grigoras\Desktop\Facultate\Anul 4\Semestrul I\ALPD\Probleme\Laborator 6\Lab6_p3_openmp\Debug\Lab6_p3_openmp.exe

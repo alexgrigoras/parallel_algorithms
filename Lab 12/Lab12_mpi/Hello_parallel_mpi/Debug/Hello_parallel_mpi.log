@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hello_parallel_mpi.vcxproj, Lab10_mpi.vcxproj, Lab11_mpi.vcxproj, Lab4_p1_mpi.vcxproj, Lab4_p2_mpi.vcxproj, Lab6_p2_mpi.vcxproj, Lab9_mpi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+e:\facultate\anul 4\semestrul i\alpd\probleme\laborator 12\lab12_mpi\hello_parallel_mpi\main.cpp(25): warning C4101: 'k': unreferenced local variable
+e:\facultate\anul 4\semestrul i\alpd\probleme\laborator 12\lab12_mpi\hello_parallel_mpi\main.cpp(25): warning C4101: 'j': unreferenced local variable
+  Hello_parallel_mpi.vcxproj -> E:\Facultate\Anul 4\Semestrul I\ALPD\Probleme\Laborator 12\Lab12_mpi\Debug\Lab12_mpi.exe

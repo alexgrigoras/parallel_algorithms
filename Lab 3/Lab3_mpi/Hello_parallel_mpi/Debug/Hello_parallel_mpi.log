@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hello_parallel_mpi.vcxproj, Lab4_p1_mpi.vcxproj, Lab6_p2_mpi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Hello_parallel_mpi.vcxproj -> C:\Users\Alexandru Grigoras\Documents\parallel-algorythms\Lab 2\Lab2_mpi\Debug\Lab2_mpi.exe

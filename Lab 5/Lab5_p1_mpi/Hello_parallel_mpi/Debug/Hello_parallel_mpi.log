@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hello_parallel_mpi.vcxproj, Lab4_p1_mpi.vcxproj, Lab6_p2_mpi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\alexandru grigoras\desktop\facultate\anul 4\semestrul i\alpd\probleme\laborator 5\lab5_p1_mpi\hello_parallel_mpi\main.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  Hello_parallel_mpi.vcxproj -> C:\Users\Alexandru Grigoras\Desktop\Facultate\Anul 4\Semestrul I\ALPD\Probleme\Laborator 5\Lab5_p1_mpi\Debug\Lab5_p1_mpi.exe
