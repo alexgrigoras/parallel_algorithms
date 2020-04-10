@@ -1,9 +1,9 @@
 # Parallel algorythms
 
+## Description
 Made in C programming language with MPI or OpenMP in Microsoft Visual Studio.
 
-## Labs algorythms:
-
+## Algorythms
 1. Introduction OpenMP
 1. Indroduction MPI (1)
 1. Indroduction MPI (2)
