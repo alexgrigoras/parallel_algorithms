@@ -1,12 +1,12 @@
-# Parallel algorythms
+# Parallel algorithms
 
 ## Description
 Made in C programming language with MPI or OpenMP in Microsoft Visual Studio.
 
-## Algorythms
+## Algorithms
 1. Introduction OpenMP
-1. Indroduction MPI (1)
-1. Indroduction MPI (2)
+1. Introduction MPI (1)
+1. Introduction MPI (2)
 1. Communication on regular topologies
 1. Communication via interconnection networks with any type of tree topology
 1. Compression (Reduction). Calculating Prefixes (Scan)
