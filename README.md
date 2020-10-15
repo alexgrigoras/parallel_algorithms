@@ -16,3 +16,6 @@ Made in C programming language with MPI or OpenMP in Microsoft Visual Studio.
 1. Solving linear systems equations
 1. Choosing the leader (1): LCR algorithm (LeLann, Chang and Roberts)
 1. Choosing the leader (2): the synchronous FloodMax algorithm
+
+## License
+The applications are licensed under the MIT License.
